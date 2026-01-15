@@ -1,16 +1,137 @@
-## Hi there 👋
+# 👨🏾‍💻 Anderson Lima 🤔
 
-<!--
-**AndyLimaSantos/AndyLimaSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Pesquisador em estrutura eletrônica com uso de Programação`**
 
-Here are some ideas to get you started:
+Me chamo Anderson Lima dos Santos, sou bacharel em Física pela Universidade de São Paulo (USP) e, atualmente, sou estudante de mestrado na mesma instituição, no Departamento de Física de Materiais e Mecânica. Desenvolvo pesquisas na área de biotecnologia e no estudo de sistemas biomoleculares.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu foco é o desenvolvimento de ferramentas computacionais que viabilizem o estudo de biocompostos, como fármacos com potenciais ações antivirais e antiparasitárias. Para a análise física desses sistemas bio-orgânicos, utilizo ferramentas computacionais como [GROMACS](https://www.gromacs.org) e [AutoDockTools](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjZqcOOlYySAxW6JrkGHS3pARMQFnoECBYQAQ&url=https%3A%2F%2Fautodock.scripps.edu%2F&usg=AOvVaw3nyvh711s_k4zRps-8KAsQ&opi=89978449), voltadas para simulações de sistemas com muitos átomos, além de [Gaussian](https://gaussian.com) e [ORCA](https://www.faccts.de/orca/), empregados no estudo mais preciso de sistemas atômicos.
+
+Aqui, busco compartilhar alguns dos códigos que desenvolvi ou que ainda estou desenvolvendo, com o objetivo de investigar a estrutura da matéria.
+
+---
+
+### 👨🏾‍💻 Linguagens de Programação.
+
+
+<img
+    align="left" 
+    alt="Java Script"
+    title="Java Script" 
+    width="25px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img
+    align="left" 
+    alt="Kotlin"
+    title="Kotlin" 
+    width="25px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
+/>
+
+<img
+    align="left" 
+    alt="Anaconda"
+    title="Anaconda" 
+    width="25px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" 
+  />
+
+
+<img
+    align="left" 
+    alt= "Python"
+    title="Python" 
+    width="25px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+  />
+
+<img
+    align="left" 
+    alt="Ubuntu"
+    title="Ubuntu" 
+    width="25px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg"
+ />
+
+
+<img
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="25px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 🖍️ Outras Ferramentas que estudo.
+
+<img
+    align="left" 
+    alt="After Effects"
+    title="After Effects" 
+    width="25px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Premier Pro"
+    title="Premier Pro" 
+    width="25px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Photoshop"
+    title="Photoshop" 
+    width="25px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"
+/>
+
+
+
+<img 
+    align="left" 
+    alt="Blender"
+    title="Blender" 
+    width="25px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg"
+/>
+
+<br/>
+<br/>
+
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=AndyLimaSantos&show_icons=true&theme=synthwave&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyLimaSantos&theme=synthwave&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+
