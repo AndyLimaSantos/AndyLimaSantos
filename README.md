@@ -5,6 +5,7 @@
 Me chamo Anderson Lima dos Santos, sou bacharel em Física pela Universidade de São Paulo (USP) e, atualmente, sou estudante de mestrado na mesma instituição, no Departamento de Física de Materiais e Mecânica. Desenvolvo pesquisas na área de biotecnologia e no estudo de sistemas biomoleculares.
 
 Meu foco é o desenvolvimento de ferramentas computacionais que viabilizem o estudo de biocompostos, como fármacos com potenciais ações antivirais e antiparasitárias. Para a análise física desses sistemas bio-orgânicos, utilizo ferramentas computacionais como [GROMACS](https://www.gromacs.org) e [AutoDockTools](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjZqcOOlYySAxW6JrkGHS3pARMQFnoECBYQAQ&url=https%3A%2F%2Fautodock.scripps.edu%2F&usg=AOvVaw3nyvh711s_k4zRps-8KAsQ&opi=89978449), voltadas para simulações de sistemas com muitos átomos, além de [Gaussian](https://gaussian.com) e [ORCA](https://www.faccts.de/orca/), empregados no estudo mais preciso de sistemas atômicos.
+
 ---
 
 ### 👨🏾‍💻 Linguagens de Programação.
