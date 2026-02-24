@@ -1,8 +1,6 @@
 # 👨🏾‍💻 Anderson Lima 🤔
 
-**`Pesquisador em estrutura eletrônica com uso de Programação`**
-
-# Olá, eu sou o Anderson 👋
+# Olá, eu sou o Anderson
 
 Profissional com formação em Física e forte atuação em dados, automação e modelagem analítica.
 
