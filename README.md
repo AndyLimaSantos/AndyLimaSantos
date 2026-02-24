@@ -10,9 +10,11 @@ Tenho experiência na estruturação de bases de dados, desenvolvimento de scrip
 
 - 📊 Análise e estruturação de dados
 - 🔁 Automação de processos
-- 💰 Aplicações em Tesouraria e Finanças
 - 📈 Modelagem preditiva e análise quantitativa
+
+## Proximos objetivos
 - 🗄️ SQL e organização de bancos de dados
+- Uso de Ia e ML para predizer comportamentos de bancos de dados no futuro.
 
 ---
 
@@ -31,7 +33,7 @@ Aplicar raciocínio analítico e automação para transformar dados em decisões
 
 ---
 
-📫 Contato: [alima210798@gmai.com]
+📫 Contato: alima210798@gmai.com
 
 
 
