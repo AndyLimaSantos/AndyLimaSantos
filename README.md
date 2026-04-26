@@ -128,7 +128,6 @@ Aplicar raciocínio analítico e automação para transformar dados em decisões
 />
 
 
-
 <img 
     align="left" 
     alt="Blender"
@@ -137,7 +136,6 @@ Aplicar raciocínio analítico e automação para transformar dados em decisões
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg"
 />
---- 
 
 ### 🐍 Contribution Activity
 
@@ -146,6 +144,3 @@ Aplicar raciocínio analítico e automação para transformar dados em decisões
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndyLimaSantos/AndyLimaSantos/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AndyLimaSantos/AndyLimaSantos/output/github-contribution-grid-snake.svg">
 </picture>
-
-<br/>
-<br/>
