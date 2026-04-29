@@ -1,4 +1,4 @@
-# 👨🏾‍💻 Anderson Lima 🤔
+# Anderson Lima
 
 # Olá, eu sou o Anderson
 
