@@ -31,7 +31,7 @@ Aplicar raciocínio analítico e automação para transformar dados em decisões
 
 ---
 
-📫 Contato: alima210798@gmai.com
+📫 Contato: alima210798@gmail.com
 
 
 
