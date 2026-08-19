@@ -1,7 +1,5 @@
 # Anderson Lima
 
-# Olá, eu sou o Anderson
-
 Profissional com formação em Física e forte atuação em dados, automação e modelagem analítica.
 
 Tenho experiência na estruturação de bases de dados, desenvolvimento de scripts em Python e construção de soluções voltadas para redução de risco, previsibilidade e eficiência operacional.
